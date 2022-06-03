@@ -2,6 +2,7 @@
 /dist/
 /data/
 npm-debug.log
+coverage
 
 # misc
 .idea
